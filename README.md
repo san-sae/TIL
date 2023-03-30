@@ -31,4 +31,4 @@
 -   로컬 머신과 GitHub 연동
     -   `git remote add origin "깃헙 주소"` 원격저장소의 별명을 origin으로 즐겨찾기
     -   `git branch -M main` 브랜치 이름이 master에서 main으로 변경
-    -   `git push origin main` 로컬저장소의 main 브랜치의 모든 commit들을 원격저장소로 pushpu
+    -   `git push origin main` 로컬저장소의 main 브랜치의 모든 commit들을 원격저장소로 push
